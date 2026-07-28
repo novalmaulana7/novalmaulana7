@@ -1,5 +1,5 @@
 # 💫 About Me:
-saya adalah seorang mobile developer dan web developer.<br>
+Seorang Mobile & Web Developer yang fokus membangun aplikasi cross-platform dengan Flutter dan web modern dengan Svelte.<br>
 
 
 ## 🌐 Socials:
